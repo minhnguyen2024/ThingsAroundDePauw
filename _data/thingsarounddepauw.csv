@@ -1,6 +1,6 @@
 objectid,filename,type,title,description
-minh001,AlmostHome.jpeg,jpeg,Almost Home,Arguably the best bistro in town. 
-minh002,Scoops.jpeg,jpeg,Scoops Ice Cream,Closest ice cream spot. Walking distance from campus
-minh003,TacoWapo.jpeg,jpeg,Taco Wapo,Healthy choice of fresh food. Fountain water available
-minh004,TapHouse.jpeg,jpeg,Tap House Burger,Equivalent to Shake Shack.
-minh005,DePauwFeature.jpeg,jpeg,Feature Image,
+minh001,AlmostHome.jpeg,image/jpeg,Almost Home,Arguably the best bistro in town. 
+minh002,Scoops.jpeg,image/jpeg,Scoops Ice Cream,Closest ice cream spot. Walking distance from campus
+minh003,TacoWapo.jpeg,image/jpeg,Taco Wapo,Healthy choice of fresh food. Fountain water available
+minh004,TapHouse.jpeg,image/jpeg,Tap House Burger,Equivalent to Shake Shack.
+minh005,DePauwFeature.jpeg,image/jpeg,Feature Image,
